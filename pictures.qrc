@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/myresources">
+        <file>CROSS.png</file>
+        <file>VOID.png</file>
+        <file>ZERO.png</file>
+        <file>ZEROWIN.png</file>
+        <file>CROSSWIN.png</file>
+        <file>CROSSLAST.png</file>
+        <file>ZEROLAST.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>CROSSLAST.png</file>
+        <file>ZEROLAST.png</file>
+    </qresource>
+</RCC>
